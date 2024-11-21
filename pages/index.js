@@ -43,7 +43,7 @@ gsasg
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate example Next.js projects. - heyo ranga canga </p>
           </a>
 
           <a
