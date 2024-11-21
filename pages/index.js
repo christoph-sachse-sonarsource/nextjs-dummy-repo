@@ -29,6 +29,10 @@ export default function Home() {
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
+          <a href="https://nextjs.org/learn" className={styles.card}>
+            <h3>Learn &rarr;</h3>
+            <p id="asdfghjkl;">Learn you a how to be have bro!</p>
+          </a>
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
