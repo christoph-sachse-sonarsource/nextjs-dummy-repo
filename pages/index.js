@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-gsasg
+gsasg 
       <main>
         <h1 className={styles.title}>
           Welcoeme to <a href="https://nextjs.org">Next.js!</a>
