@@ -9,15 +9,16 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Create Neaxt App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
 gsasg 
       <main>
         <h1 className={styles.title}>
-          Welcoeme to <a href="https://nextjs.org">Nextwsgsdgast.js!</a>
+          Welcoeme to <a href="https://nextjs.org">Nextwsgsdgast.js!</a> yip-yap
         </h1>
+        youyousdf
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
@@ -62,7 +63,7 @@ gsasg
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer yayayay"
         >
           Powered by{' '}
           <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
