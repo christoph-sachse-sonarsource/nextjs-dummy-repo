@@ -16,7 +16,7 @@ export default function Home() {
 gsasg 
       <main>
         <h1 className={styles.title}>
-          Welcoeme to <a href="https://nextjs.org">Nsdfasdext.js!</a>
+          Welcoeme to <a href="https://nextjs.org">Nextwsgsdgast.js!</a> yip-yap
         </h1>
         youyousdf
 
@@ -44,7 +44,7 @@ gsasg
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate example Next.js projects. - heyo ranga canga </p>
           </a>
 
           <a
